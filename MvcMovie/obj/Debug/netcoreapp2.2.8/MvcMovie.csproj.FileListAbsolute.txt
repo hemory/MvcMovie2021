@@ -1,0 +1,5 @@
+/Users/HPhifer/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.2.8/MvcMovie.csproj.AssemblyReference.cache
+/Users/HPhifer/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.2.8/MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HPhifer/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.2.8/MvcMovie.AssemblyInfoInputs.cache
+/Users/HPhifer/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.2.8/MvcMovie.AssemblyInfo.cs
+/Users/HPhifer/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.2.8/MvcMovie.csproj.CoreCompileInputs.cache
